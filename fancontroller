@@ -1,0 +1,4 @@
+sudo systemctl start i8kmon.service
+sudo systemctl stop i8kmon.service
+sudo systemctl restart i8kmon.service
+sudo systemctl status i8kmon.service
